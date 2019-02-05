@@ -1,5 +1,8 @@
 main()
 {
-cout<<"give your rate;
+printf("give your rate);
 
+}
+{
+printf("giving 1 star rating);
 }
