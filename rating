@@ -6,3 +6,6 @@ printf("give your rate);
 {
 printf("giving 1 star rating);
 }
+{
+printf("giving 1 star rating);
+}
